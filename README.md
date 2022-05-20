@@ -2,11 +2,12 @@
 
 Bootstrap icons, SF Symbols, and others saved in this repository can be used in any of your markdown files by including an `<img src="">` element.
 
-**Each icon is available in gray and blue**. The blue matches the color of links in Github's **default light** color scheme, and is just slightly darker than the links in the dark color schemes. The gray will appear and look good in *any* color scheme. Naming conventions: just append `.blue` to any icon.
+### Icons are available in gray or blue
+The blue matches the color of links in Github's **default light** color scheme, and is just slightly darker than the links in the dark color schemes. The gray will appear and look good in *any* color scheme. Naming conventions: just append `.blue` to any icon.
 
 **Note: I try to keep this table updated with the new icons I add, but you may see files that aren't listed here**
 
-### Icons are available in gray or blue
+
 ### EXAMPLE URL: `https://github.com/ryayoung/icons/blob/main/svg/CALENDAR.svg`
 
 <table>
@@ -43,18 +44,6 @@ Bootstrap icons, SF Symbols, and others saved in this repository can be used in 
     <td>
         <a href="svg/arrow.left.svg">
         <img src="https://github.com/ryayoung/icons/blob/main/svg/arrow.left.svg" height="30"/> &nbsp; arrow.left
-        </a>
-    </td>
-</tr>
-<tr>
-    <td>
-        <a href="svg/arrow.right.blue.svg">
-        <img src="https://github.com/ryayoung/icons/blob/main/svg/arrow.right.blue.svg" height="30"/> &nbsp; arrow.right.blue
-        </a>
-    </td>
-    <td>
-        <a href="svg/arrow.right.svg">
-        <img src="https://github.com/ryayoung/icons/blob/main/svg/arrow.right.svg" height="30"/> &nbsp; arrow.right
         </a>
     </td>
 </tr>
